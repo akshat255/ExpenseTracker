@@ -5,9 +5,13 @@ This project helps in understanding spending habits by storing transactions and 
 
 What this project does:
 1.Add income and expense entries
+
 2.Store data using SQLite database
+
 3.Show total income, total expense, and balance
+
 4.Display category-wise summary
+
 5.Generate a bar graph of expenses
 
 
