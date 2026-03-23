@@ -10,27 +10,6 @@ What this project does:
 4.Display category-wise summary
 5.Generate a bar graph of expenses
 
-Project Structure:
-SmartExpenseTracker
-│
-├── main.py
-├── config.py
-├── requirements.txt
-├── README.md
-│
-├── modules
-│   ├── add_transaction.py
-│   ├── view_summary.py
-│   ├── visualization.py
-│   └── utils.py
-│
-├── database
-│   └── expenses.db
-│
-└── tests
-    ├── test_add_transaction.py
-    ├── test_view_transaction.py
-
 
 Requirements:
 Make sure Python is installed.
